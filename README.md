@@ -1,6 +1,8 @@
-# my very first web page
+# my very first web page# my first site
 
-Welcome!
+https://grantymartin.github.io/my-first-website/
+
+Welcome!Welcome!
 
 This project is my first ever site where I have lerant the basics of using code on cloud 9 and the basics of git hub.
 
